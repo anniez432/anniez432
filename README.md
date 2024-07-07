@@ -31,7 +31,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=orange" height=35px width=100px></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=blue" height=35px width=100px></img>
+<img src="https://img.shields.io/badge/css3-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=blue" height=35px width=100px></img><br><br>
+<img src="https://img.shields.io/badge/r-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=gray" height=25px width=65></img>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=yellow" height=25px width=70></img>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/sql-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=green" height=25px width=70></img>
 </p>
 
 <h2 align="center">LET'S CONNECT!</h2>
