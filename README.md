@@ -11,6 +11,7 @@
 💻 CS300: Intro. to Object-Oriented Programming<br>
 🔢 MATH340: Linear Algebra<br>
 🔢 MATH240: Discrete Mathematics<br>
+🖥️ ML4ER: Intro. to Machine Learning for Engineering Research<br>
 </p>
     
   </details>
