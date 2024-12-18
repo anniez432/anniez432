@@ -7,22 +7,25 @@
 <p align="center"> I am a rising sophomore at the University of Wisconsin-Madison studying Computer Science (B.S.) and Statistics (B.S.). 
   <details align="center">
     <summary>Some courses I've taken include:<br></summary>
-💻 CS200: Programming I<br>
-💻 CS300: Intro. to Object-Oriented Programming<br>
+💻 CS400: Advanced Data Structures & Software Engineering<br>
+💻 CS368: Python for Java Programmers<br>
 🔢 MATH340: Linear Algebra<br>
 🔢 MATH240: Discrete Mathematics<br>
 🖥️ ML4ER: Intro. to Machine Learning for Engineering Research<br>
+💻 CS252: Intro. to Computer Engineering<br>
+🔢 STAT240: Data Modeling I<br>
+👩‍🔬 CHEM343: Organic Chemistry I<br>
 </p>
     
   </details>
 <p align="center">
   <details align="center">
 <summary>This upcoming year, I'll be taking courses such as:<br></summary>
-💻 CS400: Advanced Data Structures & Software Engineering<br>
-💻 CS368: Python for Java Programmers<br>
-💻 CS252: Intro. to Computer Engineering<br>
-🔢 STAT240: Data Modeling I<br>
-👩‍🔬 CHEM345: Organic Chemistry II<br>
+💻 CS540: Intro. to AI <br>
+💻 ECE354: Machine Organization and Programming<br>
+🔢 STAT340: Data Modeling II<br>
+🔢 STAT311: Mathematical Statistics: Theory and Methods<br>
+🔢 STAT303: R for Statistics<br>
 </p>
 </details>
 
