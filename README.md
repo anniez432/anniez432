@@ -20,7 +20,7 @@
   </details>
 <p align="center">
   <details align="center">
-<summary>This upcoming year, I'll be taking courses such as:<br></summary>
+<summary>This upcoming semester (Spring 2025), I'll be taking courses such as:<br></summary>
 💻 CS540: Intro. to AI <br>
 💻 ECE354: Machine Organization and Programming<br>
 🔢 STAT340: Data Modeling II<br>
