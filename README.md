@@ -15,17 +15,23 @@
 💻 CS252: Intro. to Computer Engineering<br>
 🔢 STAT240: Data Modeling I<br>
 👩‍🔬 CHEM343: Organic Chemistry I<br>
-</p>
-    
-  </details>
-<p align="center">
-  <details align="center">
-<summary>This upcoming semester (Spring 2025), I'll be taking courses such as:<br></summary>
 💻 CS540: Intro. to AI <br>
 💻 ECE354: Machine Organization and Programming<br>
 🔢 STAT340: Data Modeling II<br>
 🔢 STAT311: Mathematical Statistics: Theory and Methods<br>
 🔢 STAT303: R for Statistics<br>
+</p>
+    
+  </details>
+<p align="center">
+  <details align="center">
+<summary>This upcoming semester (Spring 2025), I'll be taking courses such as:<br>
+  💻 CS577: Intro. to Algorithms<br>
+  💻 BMI576: Intro. to Bioinformatics<br>
+  💻 CS620: Computer Sciences Capstone<br>
+  🔢 STAT424: Statistical Experimental Design<br>
+  💻 GENETICS375: Quantitative Methods in Genetics<br>
+</summary>
 </p>
 </details>
 
