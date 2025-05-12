@@ -25,7 +25,7 @@
   </details>
 <p align="center">
   <details align="center">
-<summary>This upcoming semester (Spring 2025), I'll be taking courses such as:<br>
+<summary>This upcoming semester (Spring 2025), I'll be taking courses such as:<br></summary>
   <p>
   💻 CS577: Intro. to Algorithms<br>
   💻 BMI576: Intro. to Bioinformatics<br>
@@ -33,7 +33,7 @@
   🔢 STAT424: Statistical Experimental Design<br>
   💻 GENETICS375: Quantitative Methods in Genetics<br>
 </p>
-  </summary>
+
 </details>
 
 <h2 align="center">LANGUAGES</h2>
