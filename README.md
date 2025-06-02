@@ -25,7 +25,7 @@
   </details>
 <p align="center">
   <details align="center">
-<summary>This upcoming semester (Spring 2025), I'll be taking courses such as:<br></summary>
+<summary>This upcoming semester (Fall 2025), I'll be taking courses such as:<br></summary>
   <p>
   💻 CS577: Intro. to Algorithms<br>
   💻 BMI576: Intro. to Bioinformatics<br>
